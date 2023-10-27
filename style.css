@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#progress{
+    width:80%;
+    height:40px;
+    background-color:#dcdcdc;
+    position: relative;
+}
+
+#bar{
+    background-color: blueviolet;
+    width:10px;
+    height: 40px;
+    position:absolute
+}
